@@ -1,2 +1,2 @@
 # Javascript-programs
-Javascript programs 
+Javascript programs in arrays
